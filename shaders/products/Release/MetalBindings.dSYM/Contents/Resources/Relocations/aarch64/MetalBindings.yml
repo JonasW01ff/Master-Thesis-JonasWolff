@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jonaswolff/Desktop/Speciale/Code/shaders/products/Release/MetalBindings'
+relocations:     []
+...
